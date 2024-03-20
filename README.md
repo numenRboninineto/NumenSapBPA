@@ -24,3 +24,8 @@ Usernames: AC81942Uxx  -> onde xx equivale ao seu numerador
 
 Password: ObrFQcK5gg1!
 
+
+Contatos:
+renato.bonini@numenit.com
+mauricio.miao@numenit.com
+
