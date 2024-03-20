@@ -22,5 +22,5 @@ Acesso para realizar o Hands-On
 
 Usernames: AC81942Uxx  -> onde xx equivale ao seu numerador
 
-Password:ObrFQcK5gg1!
+Password: ObrFQcK5gg1!
 
