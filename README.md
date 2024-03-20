@@ -8,7 +8,7 @@ https://academy-journey.cfapps.eu10.hana.ondemand.com/
 
 Select Academies
 
-SAP Build Process Automation - Create a Sales Order Process
+Experience SAP Build in Action – End-to-End
 
 
 Solution(s):
@@ -20,9 +20,9 @@ SAP Business Application Studio - https://sap-build-hana-cloud.eu10cf.applicatio
 
 Acesso para realizar o Hands-On
 
-Usernames: AC81942Uxx  -> onde xx equivale ao seu numerador
+Usernames: AC82061Uxx  -> onde xx equivale ao seu numerador
 
-Password: ObrFQcK5gg1!
+Password: ObAqjUSYUo1!
 
 
 Contatos:
